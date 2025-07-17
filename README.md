@@ -27,7 +27,7 @@ This is a responsive React web application that displays information about count
 
 - React (Vite or Create React App)
 - React Router DOM
-- CSS / Tailwind / SCSS
+- CSS
 - REST Countries API
 
 ---
