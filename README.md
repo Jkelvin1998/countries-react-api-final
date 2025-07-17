@@ -20,7 +20,7 @@ This is a responsive React web application that displays information about count
 
 ![RegionCountriesPage](./screenshots/RegionCountriesPage.png)
 
-![CountriesCard](./screenshots/CountriesCard.png)
+![CountriesCard](./screenshots/CountriesCards.png)
 ---
 
 ## Tech Stack
