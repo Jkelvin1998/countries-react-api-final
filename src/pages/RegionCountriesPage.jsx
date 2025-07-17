@@ -11,7 +11,7 @@ import useBodyBackground from '../hooks/useBodyBackground'
 
 // Data
 import regionData from '../data/regionData'
-import { travelLoadingAnimation, successLoadingAnimation } from '../data/loadingAnimationData'
+import { travelLoadingAnimation, successLoadingAnimation } from '../utils/animationConfig'
 
 // Lottie
 import Lottie from 'lottie-react'
