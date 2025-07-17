@@ -62,13 +62,14 @@ https://restcountries.com/v3.1/region/africa
 
 ## Folder Structure
 
+```
 src/
-│
-├── assets/             # Composed of Region images, Background and JSON loading animation
-├── components/         # Reusable components (e.g., Header, CountriesCard)
-├── data/               # Static data for region names
-├── utils               # Loading animation configuration
+├── assets/             # Region images, backgrounds, and Lottie animations
+├── components/         # Reusable UI components (e.g., Header, CountriesCard)
+├── data/               # Static data (e.g., region names)
+├── utils/              # Loading animation configurations
 ├── hooks/              # Custom React hooks
-├── pages/              # Page components (e.g., HomePage, RegionCountriesPage)
+├── pages/              # Page components like HomePage, RegionCountriesPage
 ├── App.jsx             # Main App component
 └── main.jsx            # React entry point
+```
