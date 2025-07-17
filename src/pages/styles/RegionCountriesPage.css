@@ -1,0 +1,30 @@
+.container {
+    width: 100%;
+    max-width: 1350px;
+    margin: 0 auto;
+}
+
+.region {
+    color: #000000;
+    background-color: #fff;
+    border-radius: 10px;
+    width: 240px;
+    font-size: 2rem;
+    text-align: center;
+    margin: 1rem 0;
+}
+
+.page-region-box {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+}
+
+.page-region-box img {
+    width: 250px;
+    height: 250px;
+    margin-top: 3rem;
+    filter: drop-shadow(0px 0px 25px #000000);
+}

@@ -1,0 +1,42 @@
+.dropdown-menu {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  width: 325px;
+  padding: 10px;
+  background-color: #fff;
+  border-radius: 10px;
+}
+
+h4 {
+  color: #000;
+  font-size: 21px;
+}
+
+select {
+  width: 100%;   
+  max-width: 100%;
+  font-size: 1rem;
+  padding: 12px 20px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  background-color: #5D89C8;
+  background-position: right 10px center;
+  background-size: 10px;
+  font-size: 18px;
+  font-weight: bold;
+  color: #ffffff;
+  cursor: pointer;
+}
+
+select:focus {
+  outline: none;
+  border-color: #007BFF;
+  box-shadow: 0 0 5px rgba(0, 123, 255, 0.5);
+}
+
+option {
+  padding: 10px;
+  background-color: #ffffff;
+  color: #333;
+}
